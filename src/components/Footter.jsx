@@ -10,7 +10,14 @@ const Footer = () => {
 
                     {/* Brand */}
                     <div className="text-center md:text-left">
-                        <h1 className="text-xl font-bold text-amber-200">TaskFlow</h1>
+                        {/* <h1 className="text-xl font-bold text-amber-200"> imgTaskFlow</h1> */}
+
+                        <img
+                            src="/taskflow.png"
+                            alt="TaskFlow Logo"
+                            className="h-16 w-16  ml-12  object-contain drop-shadow-lg"
+                        />
+
                         <p className="text-sm text-white/60 mt-1">
                             Organize • Focus • Achieve
                         </p>

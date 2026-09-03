@@ -201,7 +201,7 @@ const App = () => {
             onClick={clearCompleted}
           />
 
-          <Footter/>
+        <Footter/>
 
 
         </div>

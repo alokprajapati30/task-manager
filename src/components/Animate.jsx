@@ -19,7 +19,7 @@ const Animate = () => {
             left:`${Math.random()*100}%`,
             top:`${Math.random()*100}%`,
             animation:`float ${5 + Math.random()*10}s ease-in-out infinite`,
-            animationDelay:`${Math.random()*5}s`,
+            animationDelay:`${Math.random()*2}s`,
           }}
           ></div>
         ))}
