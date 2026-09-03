@@ -33,13 +33,13 @@ const Footer = () => {
 
                     {/* Social Icons */}
                     <div className="flex gap-4 text-white/70">
-                        <a href="https://github.com" target="_blank" rel="noreferrer">
+                        <a href="https://github.com/alokprajapati30" target="_blank" rel="noreferrer">
                             <Github className="w-5 h-5 hover:text-amber-200 transition" />
                         </a>
-                        <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+                        <a href="https://www.linkedin.com/in/alok-prajapati-21404a2a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">
                             <Linkedin className="w-5 h-5 hover:text-amber-200 transition" />
                         </a>
-                        <a href="https://twitter.com" target="_blank" rel="noreferrer">
+                        <a href="https://x.com/AlokPrajapati03" target="_blank" rel="noreferrer">
                             <Twitter className="w-5 h-5 hover:text-amber-200 transition" />
                         </a>
                     </div>
